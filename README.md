@@ -1,7 +1,7 @@
-# AttendanceSystemManagementAttendance Management System
+# Attendance Management System
 This is an attendance management system developed in C++ programming language. It allows users to register as teachers, log in, create subjects, add students to subjects, take attendance, and generate attendance reports.
 
-Features
+Features:
 Automated attendance recording
 Centralized attendance data management
 Flexible attendance options
@@ -11,13 +11,13 @@ Requirements
 C++ compiler
 Operating system (e.g., Windows, Linux, macOS)
 Text editor (e.g., Visual Studio Code)
-File management tools
 Data storage (e.g., CSV files)
 Getting Started
 Clone the repository:
 git clone https://github.com/AbubokkorFreelancer/AttendanceSystemManagement.git
 Navigate to the project directory:
 cd attendance-management-system
+
 Build the project:
 g++ main.cpp -o attendance-management-system
 Run the project:
@@ -41,5 +41,5 @@ To take attendance, select the "Take Attendance" option and select the subject f
 
 To generate an attendance report, select the "Generate Attendance Report" option and select the subject and date for which you want to generate the report. The application will then generate a CSV file containing the attendance data for the selected subject and date.
 
-Support
+Support:
 If you have any questions or problems using the attendance management system, please feel free to contact me at mdabubokkor@icloud.com.
