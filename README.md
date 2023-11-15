@@ -22,7 +22,8 @@ Build the project:
 g++ main.cpp -o attendance-management-system
 Run the project:
 ./attendance-management-system
-Usage
+
+Usage:
 The attendance management system is a command-line application. To use it, simply navigate to the project directory and run the ./attendance-management-system command.
 
 The application will prompt you to select an option. You can choose to register as a teacher, log in as a teacher, or view the help menu.
